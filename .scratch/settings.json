@@ -6,5 +6,9 @@
   },
   "editorFont": null,
   "gitEnabled": null,
-  "pinnedNoteIds": null
+  "pinnedNoteIds": null,
+  "textDirection": null,
+  "editorWidth": null,
+  "defaultNoteName": null,
+  "interfaceZoom": 1.0
 }
