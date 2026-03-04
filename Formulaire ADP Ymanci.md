@@ -1,5 +1,9 @@
 # Formulaire ADP Ymanci
 
+Le formulaire ADP a besoin du JavaScript. Il est responsive entre desktop et mobile.
+
+Il envoie ses données a Gandalf qui les traites puis les transmet a MyComparateur puis restitue la réponse de MyComparateur et un lien Calizy.
+
 ## Données en entrées
 
 
@@ -16,7 +20,7 @@
 | Taux du prêt                    | Float                                                                        |
 | Année de la première mensualité | Date JJ/MM/AAAA                                                              |
 | Banque prêteuse                 | Liste de banque prêteuse voir plus bas                                       |
-| Civilité                        | ``` 0 Monsieur - 1 Madame ```                                                |
+| Civilité                        | `0 Monsieur - 1 Madame`                                                      |
 | Nom                             | String                                                                       |
 | Prénom                          | String                                                                       |
 | Date naissance                  | Date JJ/MM/AAAA                                                              |
