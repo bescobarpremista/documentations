@@ -16,7 +16,7 @@ Il envoie ses données a Gandalf qui les traites puis les transmet a MyComparate
 | Mensualité assurance            | Mensualité ou vide                                                           |
 | Type de prêt                    | Prêt immobilier classique - Prêt relais - Prêt à taux zéro                   |
 | Montant initial du prêt         | INT                                                                          |
-| Durée du prêt                   | Int                                                                          |
+| Durée du prêt                   | INT                                                                          |
 | Taux du prêt                    | Float                                                                        |
 | Année de la première mensualité | Date JJ/MM/AAAA                                                              |
 | Banque prêteuse                 | Liste de banque prêteuse voir plus bas                                       |
