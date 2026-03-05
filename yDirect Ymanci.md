@@ -60,3 +60,13 @@ Il y a en données restitué :
   - La mensualité immobilière si la renégociation n’est pas voulu
 
  
+
+## Quelques captures
+
+![](asset://localhost/%2FUsers%2Fbenjiesco%2FDocuments%2Fdocumentation%2Fdocs%2Fassets%2Fscreenshot-1772700954.png)
+
+![](asset://localhost/%2FUsers%2Fbenjiesco%2FDocuments%2Fdocumentation%2Fdocs%2Fassets%2Fscreenshot-1772700995.png)
+
+![](asset://localhost/%2FUsers%2Fbenjiesco%2FDocuments%2Fdocumentation%2Fdocs%2Fassets%2Fscreenshot-1772701015.png)
+
+ 
