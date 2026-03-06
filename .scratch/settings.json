@@ -8,9 +8,9 @@
   "gitEnabled": null,
   "pinnedNoteIds": null,
   "textDirection": null,
-  "editorWidth": "normal",
+  "editorWidth": "custom",
   "defaultNoteName": null,
   "interfaceZoom": 1.0,
-  "customEditorWidthPx": 768,
+  "customEditorWidthPx": 805,
   "ollamaModel": null
 }
